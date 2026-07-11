@@ -4,7 +4,7 @@ A modern and responsive landing page for **DevConf 2026**, built using **HTML5**
 
 ## Live Website
 
-https://your-live-link.netlify.app/
+https://imranhashmi24.github.io/assignment-one/
 
 ## Features
 
@@ -34,7 +34,7 @@ DevConf-2026/
 ├── assets/
 │   ├── css/
 │   │   ├── style.css
-│   │   └── responsive.css
+│   │  -
 │   │
 │   └── images/
 │       ├── logo.png
@@ -61,7 +61,7 @@ DevConf-2026/
 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/imranhashmi24/assignment-one.git
 ```
 
 2. Open the project folder.
