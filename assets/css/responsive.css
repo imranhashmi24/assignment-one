@@ -1,0 +1,29 @@
+/* ================== Mobile ================= */
+
+@media (max-width:768px){
+
+    .header{
+        padding:20px;
+        border-radius:12px;
+    }
+
+    .logo img{
+        width:140px;
+        margin:auto;
+    }
+
+    .menuitem ul{
+        flex-direction:column;
+        gap:15px;
+    }
+
+    .register-button{
+        width:100%;
+    }
+
+    .register-button a{
+        width:100%;
+        text-align:center;
+    }
+
+}
